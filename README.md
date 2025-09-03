@@ -32,8 +32,8 @@ Example:
 
 | Main Domain   | Domain ID                              | Group Domains                | Status   |
 |---------------|----------------------------------------|------------------------------|----------|
-| example.com   |                                        | foo.com, bar.com, baz.com    |          |
-|               | 019907fa-ba11-72b4-a8b3-83d0262bb8ae   | another.com                  |          |
+| example.com   | {{domain_id}}                          | foo.com, bar.com, baz.com    |          |
+|               | {{domain_id}}                          | another.com                  |          |
 
 ---
 
